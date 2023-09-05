@@ -461,20 +461,6 @@ body, #container-wrap { background:#ededed; }
 	background:#4d9d45;
 }
 
-#item694 {
-	width:45px !important;
-	height:44px !important;
-	left:507px !important;
-	top:1188px !important;
-}
-
-#item698 {
-	width:45px !important;
-	height:44px !important;
-	left:197px !important;
-	top:1188px !important;
-}
-
 #item955 {
 	width:44px !important;
 	height:44px !important;
@@ -494,17 +480,5 @@ body, #container-wrap { background:#ededed; }
 	height:242px !important;
 	left:22px !important;
 	top:418px !important;
-}
-
-#item1923 {
-	width:750px !important;
-	height:419px !important;
-	background:#961414;
-}
-
-#item1953 {
-	width:750px !important;
-	height:419px !important;
-	top:748px !important;
 }
 #in5footer,  #prefooter {display:none;}
